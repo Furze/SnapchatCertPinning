@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">SnapchatCertPinning</string>
-    <string name="info_xposed_description">Disable certificate pinning in Snapchat</string>
+    <string name="app_name">DisableCertPinning</string>
+    <string name="info_xposed_description">Disable certificate pinning</string>
 
 </resources>
